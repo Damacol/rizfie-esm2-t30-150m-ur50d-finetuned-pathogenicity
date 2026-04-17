@@ -1,4 +1,4 @@
-# RizFie/esm2_t30_150M_UR50D-finetuned-pathogenicity - Private, Uncensored AI for Real Creators and Devs
+# RizFie/esm2_t30_150M_UR50D-finetuned-pathogenicity  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
